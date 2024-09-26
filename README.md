@@ -69,5 +69,8 @@ Pseudocodice
 2. nel file .env alla voce db_database inserisco il nome del repo
 3. creo il model nominandolo Movie per far associare automaticamente il model alla tabella
 4. creo un controller
-5. creo la rotta del controller e importo il model Movie in web.php
-6. creo il file home.blade.php
+5. modifico la rotta del controller e importo il model Movie in web.php
+6. creo il metodo per recuperare i film (index)
+7. restituisco i film alla view
+
+8. creo il file home.blade.php (view) in cui ciclo l'array contentente i film e li stampo
