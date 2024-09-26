@@ -68,4 +68,5 @@ Pseudocodice
 1. importo il database movies su php My Admin
 2. nel file .env alla voce db_database inserisco il nome del repo
 3. creo il model nominandolo Movie per far associare automaticamente il model alla tabella
-4.
+4. creo un controller
+5.
